@@ -1,0 +1,20 @@
+# DiscordObhod
+
+> Новая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
+
+Если Discord висит на Connecting, DiscordObhod поднимает голосовые и видео без стороннего туннеля.
+
+## Страницы
+- Сайт: https://cyclonescreenminaret.github.io/DiscordObhod/
+- Релиз: https://github.com/CycloneScreenMinaret/DiscordObhod/releases/latest
+- Исходный код: https://github.com/CycloneScreenMinaret/DiscordObhod
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+
+Windows 10/11, без VPN, бесплатно.
